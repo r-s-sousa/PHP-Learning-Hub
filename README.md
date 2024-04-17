@@ -6,21 +6,21 @@ Welcome to the Learning PHP repository! This repository is designed to guide you
 
 Before diving into PHP, it's essential to set up your development environment and familiarize yourself with some basic concepts. In this section, you'll learn about installing PHP, setting up a local development server, and understanding the fundamentals of programming.
 
-- [Getting Started](./0-getting-started/README.md)
+- [Getting Started](./00-getting-started/README.md)
 
 ## Core Concepts
 
 Once you're comfortable with the basics, it's time to explore the core concepts of PHP. This section covers topics such as variables, data types, operators, conditional statements, loops, functions, arrays, strings, and numbers.
 
-- [Variables and Data Types](./1-variables-and-data-types/README.md)
-- [Operators](./2-operators/README.md)
-- [Conditional Statements](./3-conditional-statements/README.md)
-- [Loops](./4-loops/README.md)
-- [Functions](./5-functions/README.md)
-- [Arrays](./6-arrays/README.md)
-- [Strings](./7-strings/README.md)
-- [Numbers](./8-numbers/README.md)
-- [Classes and Objects](./9-classes-and-objects/README.md)
+- [Variables and Data Types](./01-variables-and-data-types/README.md)
+- [Operators](./02-operators/README.md)
+- [Conditional Statements](./03-conditional-statements/README.md)
+- [Loops](./04-loops/README.md)
+- [Functions](./05-functions/README.md)
+- [Arrays](./06-arrays/README.md)
+- [Strings](./07-strings/README.md)
+- [Numbers](./08-numbers/README.md)
+- [Classes and Objects](./09-classes-and-objects/README.md)
 - [Exception Handling](./10-exception-handling/README.md)
 
 ## Advanced Topics

@@ -2,16 +2,16 @@
 
 # Create folders with the specified sequence and names
 mkdir -p \
-    0-getting-started \
-    1-variables-and-data-types \
-    2-operators \
-    3-conditional-statements \
-    4-loops \
-    5-functions \
-    6-arrays \
-    7-strings \
-    8-numbers \
-    9-classes-and-objects \
+    00-getting-started \
+    01-variables-and-data-types \
+    02-operators \
+    03-conditional-statements \
+    04-loops \
+    05-functions \
+    06-arrays \
+    07-strings \
+    08-numbers \
+    09-classes-and-objects \
     10-exception-handling \
     11-file-handling \
     12-database-interaction \
