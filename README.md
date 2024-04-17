@@ -56,4 +56,4 @@ If you'd like to contribute to this repository, feel free to fork it and submit 
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE).
+This repository is licensed under the [GPLv3](./LICENSE).
